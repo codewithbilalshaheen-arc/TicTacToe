@@ -1,7 +1,7 @@
-# CS112 – OOP Assignment 02: Tic Tac Toe
+# OOP Assignment 03: Tic Tac Toe
 
 **Air University, Islamabad — Department of Creative Technologies**
-**Course:** CS112 Object Oriented Programming | Spring 2026
+**Course:** Object Oriented Programming | Spring 2026
 
 ---
 
